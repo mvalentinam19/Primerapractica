@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Primerapractica</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="ButtonInicar">Iniciar Sesión</string>
+    <string name="ButtonRegistrar">Registrar</string>
+    <string name="Bienvenidos">Bienvenidos</string>
+    <string name="ImageView">Imagen</string>
+    <string name="In">InterInicio</string>
+    <string name="Iniciar_Sesion">Iniciar Sesión</string>
+    <string name="Email">Correo Electronico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="ButtonHecho">Hecho</string>
+    <string name="Hola">Hola</string>
+</resources>

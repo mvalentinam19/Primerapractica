@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primerapractica</string>
+    <string name="ButtonInicar">Login</string>
+    <string name="ButtonRegistrar">Register</string>
+    <string name="Bienvenidos">Welcome</string>
+    <string name="ImageView">Image</string>
+    <string name="In">Hello</string>
+    <string name="Iniciar_Sesion">Log In</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Registrar">Register</string>
+    <string name="Nombre">Name</string>
+    <string name="Apellido">Lastname</string>
+    <string name="ButtonHecho">Done</string>
+    <string name="Hola">Hi</string>
+</resources>
